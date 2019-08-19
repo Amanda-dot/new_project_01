@@ -1,0 +1,436 @@
+.body,.html{
+    weight:100%;
+
+
+
+}
+body{overflow-x:hidden;}
+
+/* .div1{
+  
+    background-size: cover;
+    background-position: center center;
+    height:919px;
+    width:100%;
+} */
+
+.logo{
+    border-color: #000;
+    position: absolute;
+    left:18.5%;
+    top:45px;
+    width:213px;
+    height:52px;
+    float: left;
+
+}
+.nav a{
+    color:#fff;
+    float:left;
+    margin-right:80px;
+    list-style-type:none;
+    font-size:24px;
+    text-decoration:none;
+   
+  
+}
+
+.nav{
+    position:absolute;
+    left:41.5%;
+    top:45px;
+}
+
+
+
+    
+
+.h2{
+    position: absolute;
+    top:299px;
+    left:18.5%;
+    font-size:30px;
+    color:#fff;
+    font-weight:100;
+}
+.h3{
+    font-size:100px;
+    position: absolute;
+    top:376px;
+    left:18.5%;
+    color:#fff;
+
+}
+.h4{
+    position: absolute;
+    top:500px;
+    left:18.5%;
+    font-size:30px;
+    color:#fff;
+    font-weight:100;
+}
+
+.h5{
+    font-size:18px;
+    color:#fff;
+    position: absolute;
+    top:614px;
+    left:18.5%;
+    background-color: #006de8;
+    padding:3px 16px;
+    text-decoration: none;
+    display: block;
+    width:145px;
+    height:42px;
+    text-align: center;
+    line-height: 42px;
+}
+
+.div2{
+    height:729px;
+}
+
+.left{
+ 
+ width:564px;
+ height:559px;
+ float: left;
+ display: block;
+}
+.left h1{
+    color:#ccc;
+    font-size:36px;
+}
+.title{
+    font-size:36px;
+    color:#000;
+
+}
+.wrap-profile{
+    margin-top:60px;
+}
+.profile{
+    color:grey;
+
+    font-size:18px;
+    line-height:30px;
+    
+}
+.profile1{
+    margin-top:55px;
+    color:grey;
+
+    font-size:18px;
+    line-height:30px;
+}
+.button{
+   width:144px;
+   height:42px;
+    background-color:#006de8;
+  text-align:center;
+ line-height:42px;
+ font-size:20px;
+  display: block;
+    color:#fff;
+   
+    text-decoration: none;
+    margin-top:79px
+  
+    
+
+}
+.building{
+    width:503px;
+    height:550px;
+}
+.wrap-div2{
+ 
+    display:flex;
+    justify-content:space-between;
+    width:63%;
+    padding-top:90px;
+    height:438px;
+
+    margin:0 auto;
+
+}
+
+.div3{
+    height:919px;
+}
+.wrap-div3{
+    padding-top:150px;
+    text-align: center;
+  
+}
+.title1{
+    width:26%;
+    height:29px;
+    line-height: 29px;
+    margin:0 auto;
+    margin-top:20px;
+
+}
+.title2{
+    width:15%;
+    position: relative;
+    top:200px;
+    left:60%;
+    text-align: center;
+  
+} 
+.time{
+    width:60%;
+    position: relative;
+    top:120px;
+  
+   
+}
+.dep{
+    color:#ccc;
+    font-size:48px;
+}
+.dlp{
+    font-size:36px;
+}
+
+.div4{
+    background-image: url(大奔的网页-assets/div4.png)
+
+}
+.pic{
+   
+    position: relative;
+    top:200px;
+    left:58%;
+    text-align: center;
+}
+.div4{
+    height:353px;
+}
+.wrap-div4{
+    display: flex;
+  margin:0 auto;
+  width:62%;
+  position: relative;
+  top:126px;
+  justify-content: space-between;
+  list-style-type:none;
+  color:#fff;
+    
+   
+}
+.num{
+    position: relative;
+    left:60px;
+    bottom:110px;
+    font-size:100px;
+    font-weight: 100;
+
+
+}
+.word{
+    position: relative;
+    left:220px;
+    bottom:160px;
+    font-size:16px;
+}
+.word1{
+    position: relative;
+    left:160px;
+    bottom:160px;
+    font-size:16px;
+}
+.div5{
+    height:1199px;
+    background-image:url(大奔的网页-assets/div5.png)
+}
+
+.wrap-div5{
+    text-align: center;
+   padding-top:125px;
+  
+}
+
+.success{
+    color:#ccc;
+    font-size:48px;
+
+}
+.case{
+    font-size:36px;
+}
+.case1{
+    margin-top:30px;
+    margin-bottom:93px;
+
+}
+.div5 ul{
+    display: flex;
+   width:1207px;
+   height: 662px;
+   margin:0 auto;
+   list-style-type: none;
+   justify-content: space-between;
+}
+
+.pic5{
+    width:362px;
+    height:432px;
+
+}
+.case5{
+    background-color:#fff;
+    height:230px;
+    width:362px;
+    position: relative;
+  bottom:10px;
+
+}
+
+.case55{
+    font-size:24px;
+    padding-top:32px;
+    padding-left:21px;
+    color:grey;
+}
+
+.case6{
+    width:329px;
+    font-size:18px;
+    padding-top:20px;
+    padding-left:21px;
+    color:grey;
+    line-height: 31px;
+
+}
+.div6{
+    height:755px;
+}
+.wrap-div6{
+    padding-top:100px;
+    
+    width:1278px;
+    height:600px;
+    
+    background-image: url(大奔的网页-assets/pit9.png) ;
+  
+      margin:0 auto;
+      position: relative;
+      top:50px;
+    
+    
+}
+
+.text1{
+    font-size:36px;
+    font-weight: bold;
+    float: left;
+    padding-right:25px;
+    
+
+
+}
+.text2{
+    color:#ccc;
+    font-size:36px;
+
+}
+.upper{
+    position: relative;
+    left:80px;
+    
+}
+.name,.phone{
+    width:260px;
+    margin-right:89px;
+    margin-bottom:34px;
+    height:50px;
+    text-indent:22px;
+
+   
+
+}
+.mail{
+    width:354px;
+    height:50px;
+    text-indent:22px;
+ 
+}
+
+.bottom{
+    position: relative;
+    left:80px;
+
+}
+.text5{
+    width:488px;
+    height:190px;
+    margin-bottom:43px;
+    text-indent:22px;
+    
+
+}
+.submit{
+    text-align: center;
+    background-color:#006de8;
+    color:#fff;
+    width:488px;
+    height:49px;
+    display:block;
+    text-decoration: none;
+    font-size:18px;
+    line-height:49px;
+
+}
+
+.inf-left{
+    float: left;
+}
+.inf-right ul{
+    list-style-type: none;
+}
+.png{
+    position: relative;
+    right:50px;
+    top:35px;
+}
+.text8{
+    color:grey;
+}
+
+.inf-right{
+    position: relative;
+    left:164px;
+    top:40px;
+}
+.information{
+    margin-top:42px;
+}
+.blue1{position: relative;
+    right:55px;
+    bottom:55px;
+
+}
+
+.div7{width:100%;
+    background-image: url(大奔的网页-assets/pit7.png) ;
+    height: 108px;
+}
+
+.logo2{
+    position: relative;
+   left:18.7%;
+   top:30px;
+   float: left;
+
+}
+
+.icp{ position: relative;
+   left:68.8%;
+   color:grey;
+   line-height:28px;
+   padding-top:30px;
+    
+
+}
